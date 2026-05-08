@@ -1,0 +1,23 @@
+{
+  "name": "7376231cs193",
+  "version": "1.0.0",
+  "main": "register.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kanish835/7376231CS193.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kanish835/7376231CS193/issues"
+  },
+  "homepage": "https://github.com/Kanish835/7376231CS193#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.16.0"
+  }
+}
